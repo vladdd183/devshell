@@ -1,3 +1,2 @@
--- configurations/neovim/init.lua
-require("plugins")
--- Ваши настройки Neovim
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
