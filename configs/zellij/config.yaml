@@ -1,0 +1,16 @@
+# configurations/zellij/config.yaml
+---
+general:
+  auto_reload_config: true
+  theme: gruvbox
+keybinds:
+  - action: SplitLeft
+    key: h
+  - action: SplitDown
+    key: j
+  - action: SplitUp
+    key: k
+  - action: SplitRight
+    key: l
+# Добавьте больше настроек Zellij здесь
+

@@ -1,0 +1,5 @@
+# configurations/xonsh/xonshrc
+$PROMPT = '{cwd} $ '
+
+# Добавьте дополнительные настройки xonsh здесь
+
